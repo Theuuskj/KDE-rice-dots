@@ -6,8 +6,8 @@ Icons: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 
 Principal theme: https://gitlab.com/jomada/Scratchy
 
-Where i found wall:https://github.com/orangci/walls-catppuccin-mocha/tree/master
+Wall pack(NOT MINE!!!!): :https://github.com/orangci/walls-catppuccin-mocha/tree/master
 
-wall:
+Wall:
 
 ![flower](https://github.com/user-attachments/assets/afb2bcd6-33ed-4dd9-99eb-ebd4f7a5c0a0)
