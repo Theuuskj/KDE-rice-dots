@@ -1,4 +1,4 @@
---MADE BY DARLINGI
+--MADE BY DARLINGI/THEUUSKJ
 --use packer.
 require('packer').startup(function(use)
 use 'goolord/alpha-nvim'
